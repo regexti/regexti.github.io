@@ -17,7 +17,7 @@ comments: false
 ## Preview
 
 {% capture images %}
-	https://regexti.github.io/arquivos/conciliador_esquema.png
+	http://avancoinfo.com.br/arquivos/conciliador_esquema.png
 	https://regexti.github.io/assets/img/business-intelligence_jQ8WmKC.jpg
 	https://regexti.github.io/assets/img/erp-integration-banner.jpg
 	https://regexti.github.io/assets/img/conciliador.jpg
